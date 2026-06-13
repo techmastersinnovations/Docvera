@@ -1,0 +1,39 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+build/
+.expo/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment
+.env
+.env.local
+.env.production
+.env.development
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
